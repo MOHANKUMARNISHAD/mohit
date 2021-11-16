@@ -1,0 +1,1 @@
+print("Hello this code relate multiply ")
